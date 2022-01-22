@@ -1,2 +1,2 @@
 worker: npm install
-worker: node src/index.js
+worker: npx node src/index.js
